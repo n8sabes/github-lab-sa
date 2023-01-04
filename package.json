@@ -21,8 +21,8 @@
     "qwik": "qwik"
   },
   "devDependencies": {
-    "@builder.io/qwik": "link:public/libs/qwik/dist",
-    "@builder.io/qwik-city": "link:public/libs/qwik-city",
+    "@builder.io/qwik": "link:/home/projects/github-u7xej3/libs/qwik/dist/",
+    "@builder.io/qwik-city": "link:/home/projects/github-u7xej3/libs/qwik-city/",
     "@types/eslint": "8.4.10",
     "@types/node": "^18.11.16",
     "@types/node-fetch": "latest",
